@@ -129,7 +129,7 @@
 //      long_month        [ {1-31} ]
 //      short_month       [ {1-30} ]
 //      very_short_month  [ {1-28} ]
-//      
+//
 //      date
 //      [
 //        [

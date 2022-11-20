@@ -25,7 +25,7 @@ func tokenize(input string, file string) []token {
 
 		// Strip whitespace
 		line = strings.ReplaceAll(line, "\t", "")
-		
+
 		line = strings.Trim(line, " ")
 
 		// Add extra spaces around syntactic characters so they will separated properly
